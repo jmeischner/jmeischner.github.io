@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jmeischner.com",
+    "description": "",
+    "home_page_url": "https://jmeischner.com",
+    "feed_url": "https://jmeischner.com/feed.json",
+    "user_comment": "",
+    "icon": "https://jmeischner.com/media/website/Logo-Small.png",
+    "author": {
+        "name": "Jan Meischner"
+    },
+    "items": [
+        {
+            "id": "https://jmeischner.com/hallo-welt.html",
+            "url": "https://jmeischner.com/hallo-welt.html",
+            "title": "Hallo Welt",
+            "summary": "Hier ist ein Beitrag mit viel Markdown oder auch Doch",
+            "content_html": "<p>Hier ist ein Beitrag <em>mit</em> <strong>viel</strong> <del>Markdown</del> oder auch </p><h1 id=\"doch\">Doch</h1>\n",
+            "author": {
+                "name": "Jan Meischner"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-30T15:50:37+02:00",
+            "date_modified": "2025-07-30T15:50:37+02:00"
+        }
+    ]
+}
